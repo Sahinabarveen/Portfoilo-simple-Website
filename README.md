@@ -19,7 +19,7 @@ You can view the live demo of my portfolio website here.
 To run this project locally, clone the repository:
 
 How to view 
-link []
+link [https://sahinabarveen.github.io/Portfoilo-simple-Website/]
 
 
 Thankyou for visiting My Portfolio
