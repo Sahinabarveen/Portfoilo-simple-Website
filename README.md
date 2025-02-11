@@ -6,11 +6,14 @@ This is my personal portfolio website, built with HTML and CSS. It serves as an 
 
 Features:
 Home Page: An overview of who I am, my skills, and a brief look at my work.
+
 Contact Page: A dedicated section where visitors can easily find my contact information or reach out directly.
+
 Technologies Used:
+
 HTML: For structuring the content and pages.
 CSS: For styling and layout, making the design visually appealing and responsive.
-Demo:
+
 You can view the live demo of my portfolio website here.
 
 To run this project locally, clone the repository:
